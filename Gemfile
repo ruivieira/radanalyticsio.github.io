@@ -25,3 +25,6 @@ group :jekyll_plugins do
     gem "jekyll-asciidoc"
 end
 gem "json"
+
+# Image size optimization
+gem 'jekyll-compress-images'
